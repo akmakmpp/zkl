@@ -1,18 +1,5 @@
 [
-{
-           "res": "Sd",
-           "sound": "Vie",
-           "teams": "Dort Vs Stutt",
-           "link": "https://sun.meta-scores.com/c38292a5da/c38292a5da@720p.m3u8"
 
-         },
-           {
-           "res": "HD",
-           "sound": "vie",
-           "teams": "Hof Vs Bay",
-           "link": "https://sun.meta-scores.com/b3628ed892/b3628ed892@720p.m3u8"
-
-         },
            {
            "res": "FHD",
            "sound": "China",
@@ -32,30 +19,6 @@
            {
            "res": "FHD",
            "sound": "Vie",
-           "teams": "Aug Vs Lei",
-           "link": "https://sun.meta-scores.com/6a656564f5/6a656564f5@720p.m3u8"
-
-         },
-           
-           {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams": "Bay Vs Wol",
-           "link": "https://514644076.slave.anycastapnic.com/xavi/283/chunklist.m3u8"
-
-         },
-           
-           {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams": "Fri Vs Wer",
-           "link": "https://514644076.slave.anycastapnic.com/xavi/285/chunklist.m3u8"
-
-         },
-           
-           {
-           "res": "FHD",
-           "sound": "Vie",
            "teams": "Man City Vs Bri",
            "link": "https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1666467568-0-0-c0d3d7cfdb871df9d3bb818b20fa5e20"
 
@@ -67,15 +30,8 @@
            "teams": "Eve Vs Cry",
            "link": "https://pullalilive.livnvess.com/live/stream-143449.m3u8?auth_key=1666468288-0-0-58f6fd9174966acd6563dd5d79e90f5d"
 
-         },
-           
-           {
-           "res": "FHD",
-           "sound": "Chi",
-           "teams": "Val Vs Real",
-           "link": "https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1666469417-0-0-59b46d1d1cbd85e1c4a9a41f66fb882c"
-
          }
+        
            
            
            
