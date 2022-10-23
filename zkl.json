@@ -9,6 +9,14 @@
          },
            
            {
+           "res": "FHD",
+           "sound": "Chi",
+           "teams": "Udinese Vs Torino",
+           "link": "https://moon.meta-scores.com/295eb0a4ab/295eb0a4ab@720p.m3u8"
+
+         },
+           
+           {
            "res": "HD",
            "sound": "Vie",
            "teams": "Angers Vs Rennes",
