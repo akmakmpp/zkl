@@ -31,7 +31,25 @@
            "teams":  "Hertha Vs Schalke",
            "link": "https://pullalilive.livnvess.com/live/stream-121272.m3u8?auth_key=1666559428-0-0-2a2eed9c7690a35c75e1f6bbe1214e00"
 
+         },
+           
+           {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Girona Vs Osa",
+           "link": ""
+
+         },
+           
+           {
+           "res": "HD",
+           "sound": "Vie",
+           "teams":  "Villar Real Vs Almeria",
+           "link": ""
+
          }
+        
+        
         
         
         
