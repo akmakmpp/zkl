@@ -54,7 +54,32 @@
            "teams":  "Bologna Vs Lecce",
            "link": "https://pullalilive.livnvess.com/live/stream-132385.m3u8?auth_key=1666551028-0-0-d21fe2e29c372646355ec8ee3cf0a794"
 
+         },
+           
+           {
+           "res": "HD",
+           "sound": "Vie",
+           "teams": "Bochum Vs U Berlin",
+           "link": "https://pullalilive.livnvess.com/live/stream-214855.m3u8?auth_key=1666551525-0-0-b3c39f4aba3540faed7795a43b55df11"
+
+           },
+           
+           {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Betis Vs Atico",
+           "link": ""
+
+           },
+           
+           {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Totten Vs New",
+           "link": ""
+
          }
+        
         
         
         
