@@ -3,7 +3,7 @@
            {
            "res": "FHD",
            "sound": "Vie",
-           "teams":  "Cremo Vs Sampdo",
+           "teams":  "Salzburg Vs Chelsea",
            "link": ""
 
          },
@@ -11,7 +11,7 @@
            {
            "res": "FHD",
            "sound": "Vie",
-           "teams":  "Sassuo Vs  Verona",
+           "teams":  "Sevilla Vs Fc Kobenhavn",
            "link": ""
 
          },
@@ -19,7 +19,7 @@
            {
            "res": "HD",
            "sound": "Vie",
-           "teams":  "West Ham Vs Bourne",
+           "teams":  "Dinamo Zagreb Vs Milan",
            "link": ""
 
          },
@@ -27,7 +27,39 @@
            {
            "res": "HD",
            "sound": "Vie",
-           "teams":  "Celta Vs Getafe",
+           "teams":  "Dortmund Vs Man City",
+           "link": ""
+
+         },
+           
+           {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Celtic Vs Shakhtar",
+           "link": ""
+
+         },
+           
+           {
+           "res": "HD",
+           "sound": "Vie",
+           "teams":  "RB Leipzig Vs Real",
+           "link": ""
+
+         },
+           
+           {
+           "res": "HD",
+           "sound": "Vie",
+           "teams":  "Benfica Vs Juventus",
+           "link": ""
+
+         },
+           
+           {
+           "res": "HD",
+           "sound": "Vie",
+           "teams":  "PSG Vs Maccabi Haifa",
            "link": ""
 
          }
