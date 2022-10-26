@@ -2,65 +2,65 @@
            
            {
            "res": "FHD",
-           "sound": "Chinese",
-           "teams":  "Salzburg Vs Chelsea",
-           "link": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1666735638-0-0-43c5ea3b8f1ff236a6fc61f9cb1aadf3"
+           "sound": "",
+           "teams":  "Inter Vs Viktoria",
+           "link": ""
 
          },
            
            {
-           "res": "HD",
-           "sound": "Chinese",
-           "teams":  "Sevilla Vs Fc Kobenhavn",
-           "link": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666735877-0-0-6bfd7e5b73c836bebe18455b0f66ef9f"
-
-         },
-           
-           {
-           "res": "HD",
-           "sound": "Vie",
-           "teams":  "Dinamo Zagreb Vs Milan",
-           "link": "https://moon.meta-scores.com/5eeb84001a/5eeb84001a@720p.m3u8"
-
-         },
-           
-           {
-           "res": "HD",
-           "sound": "Vie",
-           "teams":  "Dortmund Vs Man City",
-           "link": "https://moon.meta-scores.com/687eee6260/687eee6260@720p.m3u8"
+           "res": "FHD",
+           "sound": "",
+           "teams":  "Club brugge Vs Porto",
+           "link": ""
 
          },
            
            {
            "res": "FHD",
            "sound": "Vie",
-           "teams":  "Celtic Vs Shakhtar",
-           "link": "https://moon.meta-scores.com/9d405a8ab1/9d405a8ab1@720p.m3u8"
+           "teams":  "Frankfurt Vs Marseille",
+           "link": ""
 
          },
            
            {
-           "res": "HD",
+           "res": "FHD",
            "sound": "Vie",
-           "teams":  "RB Leipzig Vs Real",
-           "link": "https://moon.meta-scores.com/a81e6993a1/a81e6993a1@720p.m3u8"
+           "teams":  "Barce Vs Bayern",
+           "link": ""
 
          },
            
            {
-           "res": "HD",
+           "res": "FHD",
            "sound": "Vie",
-           "teams":  "Benfica Vs Juventus",
-           "link": "https://moon.meta-scores.com/018c6a30d4/018c6a30d4@720p.m3u8"
+           "teams":  "Ajax Vs Liverpool",
+           "link": ""
 
          },
            
            {
-           "res": "HD",
+           "res": "FHD",
            "sound": "Vie",
-           "teams":  "PSG Vs Maccabi Haifa",
-           "link": "https://moon.meta-scores.com/9af3d17d82/9af3d17d82@720p.m3u8"
+           "teams":  "Atletico Vs Leverkusen",
+           "link": ""
+
+         },
+           
+           {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Tottenham Vs Sporting",
+           "link": ""
+
+         },
+           
+           {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Napoli Vs Rangers",
+           "link": ""
 
          }
         
