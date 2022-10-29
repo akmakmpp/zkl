@@ -12,12 +12,22 @@
            
            
            {
+           "res": "HD",
+           "sound": "China",
+           "teams":  "Liv Vs Lee",
+           "link": "https://moon.meta-scores.com/18f15bccc5/18f15bccc5@720p.m3u88"
+
+         },
+           
+           
+           {
            "res": "FHD",
            "sound": "China",
            "teams":  "Liv Vs Lee",
            "link": "https://moon.meta-scores.com/18f15bccc5/18f15bccc5@720p.m3u8"
 
          },
+           
            
            {
            "res": "HD",
