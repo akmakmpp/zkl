@@ -1,18 +1,18 @@
 [
         {
            "res": "FHD",
-           "sound": "China",
+           "sound": "Vie",
            "teams":  "Lev Vs Bru",
            "link": "" 
         },
         {
-           "res": "HD",
+           "res": "FHD",
            "sound": "Vie",
            "teams":  "Por vs Atico",
            "link": ""
         },
         {
-           "res": "HD",
+           "res": "FHD",
            "sound": "Vie",
            "teams":  "Liv Vs Nap",
            "link": ""
@@ -30,7 +30,7 @@
            "link": ""
         },
         {
-           "res": "HD",
+           "res": "FHD",
            "sound": "Vie",
            "teams":  "Plz vs Bar",
            "link": ""
@@ -42,7 +42,7 @@
            "link": ""
         },
         {
-           "res": "HD",
+           "res": "FHD",
            "sound": "Vie",
            "teams":  "Spo Vs Fra",
            "link": ""
