@@ -1,27 +1,9 @@
 [
         {
            "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Lev Vs Bru",
-           "link": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667346619-0-0-8bc0b7925e70924ea9f53f7a6973ceef" 
-        },
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Por vs Atico",
-           "link": "https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1667346499-0-0-bedf592c379d7ec7e244fa0e84fbb779"
-        },
-        {
-           "res": "FHD",
            "sound": "China",
-           "teams":  "Por Vs Atico",
-           "link": "https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1667346568-0-0-fa7ff1f857808bb9323a1b3095539316"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Lev Vs Bru",
-           "link": "https://pullalilive.livnvess.com/live/stream-160430.m3u8?auth_key=1667346628-0-0-08e6355d540318c64969cdac6e01e16d"
+           "teams":  "Liv Vs Nap",
+           "link": ""
         },
         {
            "res": "FHD",
