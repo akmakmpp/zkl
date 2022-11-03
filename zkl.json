@@ -1,53 +1,6 @@
 [
     
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Soc Vs Man-U",
-           "link": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667518579-0-0-4ecdfc94a836fde87958332529fe76d6 "
-        },
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Sherif Vs Nico",
-           "link": "https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1667518939-0-0-413c0d6c244449b48d79f7cb4714f93c "
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Midtj Vs Stu",
-           "link": " https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1667518759-0-0-afef8b62a699f4361242b1bd03c6ed4f"
-        },
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Fey Vs Lazio",
-           "link": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1667518399-0-0-7a82f178246bc5a60f29db33ac74d7b8"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Oly Vs Nantes",
-           "link": "https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1667518639-0-0-501fcf32dd4962b975b61a31d7c7fa6c "
-        },
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Qar Vs Freiburg",
-           "link": "https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1667518819-0-0-83143af6d6ea34a2acf2ccc40071951f "
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Monaco Vs Zve",
-           "link": "https://yypull.gdsth.com/live/stream-552565.m3u8?auth_key=1667518339-0-0-a146dc2374a3c6ea59814ffa73c62ce0 "
-        },
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Tra Vs Fer",
-           "link": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1667520259-0-0-328ec8c92b37b36c4dedb1e4b835f169"
-        },
+
         {
            "res": "FHD",
            "sound": "China",
