@@ -1,64 +1,11 @@
 [
-         {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  " Mancity Vs Ful",
-           "link": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1667681369-0-0-b3fb2908f5d6c251d1b99b49f7fad241"
-        },
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Leeds Vs Bou ",
-           "link": "https://pullalilive.livnvess.com/live/stream-112310.m3u8?auth_key=1667681309-0-0-e18446da5a46a0aaf9081aeab156b639"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  " Wolves Vs Bri",
-           "link": "https://pullalilive.livnvess.com/live/stream-160430.m3u8?auth_key=1667681489-0-0-fbd676f0811a99a0ba7201fd33a38e38"
-        },
-        {
-           "res": "FHD",
-           "sound": " Vie",
-           "teams":  " Nottm Vs Bre",
-           "link": "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1667681429-0-0-19c56f525c95f050efa2c99c6fe23dcf"
-        },
         {
            "res": "FHD",
            "sound": "China",
            "teams":  " Everton Vs Lei",
            "link": " "
         },
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Dort Vs Bochum ",
-           "link": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667680220-0-0-90e07cc86ec947069a4bfd3e3771d081"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  " Augs Vs Fra",
-           "link": "https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1667679089-0-0-b07ea02b45b60d2d008fe28f5f69c6ef "
-        },
-        {
-           "res": "FHD",
-           "sound": " Vie",
-           "teams":  " Hertha Vs Bayern",
-           "link": "https://pullalilive.livnvess.com/live/stream-115429.m3u8?auth_key=1667679149-0-0-ddaaebe041ed82019c208432a2706006 "
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  " Hoffen Vs Leip",
-           "link": "https://pullalilive.livnvess.com/live/stream-118582.m3u8?auth_key=1667679269-0-0-dd2f74342e4ee4f02a5f12f5bcdb07a4 "
-        },
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Mainz Vs Wolfs ",
-           "link": "https://pullalilive.livnvess.com/live/stream-113906.m3u8?auth_key=1667679269-0-0-8ff50a4b57cce4d87ea4aec4f3269497 "
-        },
+     
         {
            "res": "FHD",
            "sound": "China",
@@ -82,18 +29,6 @@
            "sound": "China",
            "teams":  " Barcelona Vs Alm",
            "link": " "
-        },
-        {
-           "res": "HD",
-           "sound": " Vie",
-           "teams":  "Empoli Vs Sas",
-           "link": "https://pullalilive.livnvess.com/live/stream-104707.m3u8?auth_key=1667678429-0-0-db8b50e9bad9f0e64cc58b37bcabb73f"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Saler Vs Cre",
-           "link": "https://yypull.gdsth.com/live/stream-379324.m3u8?auth_key=1667679740-0-0-2ee5e5557e5f9165371bf90e1f2e5c1d"
         },
         {
            "res": "FHD",
