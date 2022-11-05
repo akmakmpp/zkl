@@ -1,29 +1,5 @@
 [
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  " Everton Vs Lei",
-           "link": " https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1667690359-0-0-9c6b89f4fa32d49123d6acd455b3702d"
-        },
-     
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  " Werder Vs Schalke",
-           "link": "https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1667692220-0-0-a239fe47f5f00d050d987a871cb6d398"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Vallado Vs Elche",
-           "link": "https://pullalilive.livnvess.com/live/stream-141691.m3u8?auth_key=1667681729-0-0-36590165095c0b65bbf6f7a800af8e72 "
-        },
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Celta Vs Osa ",
-           "link": "https://yypull.gdsth.com/live/stream-349393.m3u8?auth_key=1667690540-0-0-a5642e1806b41041f26790151268e225 "
-        },
+ 
         {
            "res": "FHD",
            "sound": "China",
