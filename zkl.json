@@ -1,35 +1,4 @@
 [
- 
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Che Vs Ars ",
-           "link": "https://yypull.gdsth.com/live/stream-535588.m3u8?auth_key=1667757440-0-0-d64971d78658e6366eee8e2430f4254c"
-        },
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Che vs Ars ",
-           "link": "https://pullalilive.livnvess.com/live/stream-201986.m3u8?auth_key=1667755649-0-0-ba1dacb37f5378a6a422deead7a868a7"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Lor Vs PSG ",
-           "link": "https://yypull.gdsth.com/live/stream-318894.m3u8?auth_key=1667756780-0-0-ad38e7e41e4fd9bc0fd1db2a9e2e452e"
-        },
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Lor Vs PSG ",
-           "link": "https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1667757329-0-0-fe8bfa58e9824d62305f9098ecea5f6b"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Bol Vs Tor ",
-           "link": "https://yypull.gdsth.com/live/stream-279932.m3u8?auth_key=1667755280-0-0-5498a84cf47b649f3ba68a0ebf4444e8 "
-        },
         {
            "res": "HD",
            "sound": "Vie",
