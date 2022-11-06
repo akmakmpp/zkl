@@ -1,10 +1,5 @@
 [
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Fri Vs Kol ",
-           "link": "https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1667773340-0-0-5c3acb1538695f6675812974c4978477 "
-        },
+ 
         {
            "res": "FHD",
            "sound": "China",
@@ -40,12 +35,6 @@
            "sound": "China",
            "teams":  " Juv Vs Int",
            "link": "https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1667785400-0-0-11dfd6f57310392568b72ae3ed0eb651 "
-        },
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Juv Vs Int ",
-           "link": ""
         },
         {
            "res": "FHD",
