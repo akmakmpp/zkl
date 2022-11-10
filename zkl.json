@@ -45,6 +45,12 @@
         {
            "res": "FHD",
            "sound": "China",
+           "teams":  "Laz Vs Mon",
+           "link": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668130820-0-0-f59fcbd83441a82c89009e73a8a169ef"
+        },
+        {
+           "res": "FHD",
+           "sound": "China",
            "teams":  "Man Vs Ast",
            "link": ""
         } ,
