@@ -52,7 +52,13 @@
            "sound": "China",
            "teams":  "Rel Vs Cad",
            "link": ""
-        } 
+        } , 
+        {
+           "res": "FHD",
+           "sound": "China",
+           "teams":  "Rel Vs Cad",
+           "link": ""
+        }
   ]     
    
         
