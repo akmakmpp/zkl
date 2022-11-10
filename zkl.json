@@ -33,6 +33,12 @@
         {
            "res": "FHD",
            "sound": "China",
+           "teams":  "Val Vs Bet",
+           "link": "https://yypull.gdsth.com/live/stream-409374.m3u8?auth_key=1668128180-0-0-a524f9cc259e0823efb01553201e0144"
+        },
+        {
+           "res": "FHD",
+           "sound": "China",
            "teams":  "Laz Vs Mon",
            "link": ""
         },
