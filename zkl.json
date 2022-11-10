@@ -15,7 +15,7 @@
         {
            "res": "FHD",
            "sound": "China",
-           "teams":  "Val Vs cel",
+           "teams":  "Val Vs Cel",
            "link": "https://moon.meta-scores.com/935e9fe925/935e9fe925@720p.m3u8"
         },
         {
@@ -23,6 +23,12 @@
            "sound": "China",
            "teams":  "Val Vs Cel",
            "link": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668124160-0-0-2aa43bc06e1de00deaf793bbb10e9cbe"
+        },
+        {
+           "res": "FHD",
+           "sound": "China",
+           "teams":  "Val Vs Bet",
+           "link": ""
         },
         {
            "res": "FHD",
@@ -40,7 +46,7 @@
            "res": "FHD",
            "sound": "China",
            "teams":  "Rel Vs Cad",
-           "link": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1668044420-0-0-452cf4b04af14d5de86480734b431d15"
+           "link": ""
         } 
   ]     
    
