@@ -9,74 +9,32 @@
         {
            "res": "FHD",
            "sound": "China",
-           "teams":  "Fra Vs Hof",
-           "link": "https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1668043820-0-0-7931cdd8b6c88d11ec768dccb944e0f8"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Lei Vs Fre",
-           "link": "https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1668043700-0-0-cc8789eceacd3aedf4f7b15b08254d51"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Sch Vs Mai",
-           "link": "https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1668043820-0-0-e84f127d6af12dbfd69182a1a6c22549"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Uni Vs Aug",
-           "link": "https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1668043760-0-0-7e5b96b7f75df502b60c2d1d23aae4dd"
-        } ,
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Fio Vs Sal",
-           "link": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1668044420-0-0-452cf4b04af14d5de86480734b431d15"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Int Vs Bol",
-           "link": "https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1668044060-0-0-912c2fb4e36f105520390cf41051f07d"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Tor Vs Sam",
-           "link": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668044120-0-0-453c886132ba62efffe3c093808f0e88"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Mal Vs Atl",
+           "teams":  "Val Vs cel",
            "link": ""
         },
         {
            "res": "FHD",
            "sound": "China",
-           "teams":  "Ars Vs Bri",
-           "link": "https://yypull.gdsth.com/live/stream-6892349.m3u8?auth_key=1668044360-0-0-9b24484da52b4786d26beb9758b0d4f9"
+           "teams":  "Val Vs Bet",
+           "link": ""
         },
         {
            "res": "FHD",
            "sound": "China",
-           "teams":  "Not Vs Tot",
-           "link": "https://moon.meta-scores.com/0b6ae371ea/0b6ae371ea@720p.m3u8"
+           "teams":  "Laz Vs Mon",
+           "link": ""
         },
         {
            "res": "FHD",
            "sound": "China",
-           "teams":  "Liv Vs Der",
-           "link": "https://moon.meta-scores.com/a84de816b7/a84de816b7@720p.m3u8"
-        },
+           "teams":  "Man Vs Ast",
+           "link": ""
+        } ,
         {
            "res": "FHD",
            "sound": "China",
-           "teams":  "Man Vs Che",
-           "link": "https://moon.meta-scores.com/5a5e7c6602/5a5e7c6602@720p.m3u8"
+           "teams":  "Rel Vs Cad",
+           "link": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1668044420-0-0-452cf4b04af14d5de86480734b431d15"
         } 
   ]     
    
