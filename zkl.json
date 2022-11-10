@@ -40,7 +40,13 @@
            "sound": "China",
            "teams":  "Man Vs Ast",
            "link": "https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1668131780-0-0-8b31a6d74532e9fe40581284fc5312f2"
-        } ,
+        },
+        {
+           "res": "FHD",
+           "sound": "China",
+           "teams":  "Man Vs Ast",
+           "link": "https://moon.meta-scores.com/9884320a74/9884320a74@720p.m3u8"
+        } , 
         {
            "res": "FHD",
            "sound": "China",
