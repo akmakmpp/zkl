@@ -21,6 +21,12 @@
         {
            "res": "FHD",
            "sound": "China",
+           "teams":  "Nap Vs Udi",
+           "link": "https://yypull.gdsth.com/live/stream-484463.m3u8?auth_key=1668282381-0-0-296283ba755e561c3fd4340d78cf3529"
+        },
+        {
+           "res": "FHD",
+           "sound": "China",
            "teams":  "Lev Vs Stu",
            "link": ""
         },
