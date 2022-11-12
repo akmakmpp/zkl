@@ -3,34 +3,23 @@
         {
            "res": "FHD",
            "sound": "China",
-           "teams":  "Len Vs Cle",
-           "link": "https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1668290181-0-0-7b2a411f2e1bcd3e4dfeb0ca188562fb"
-        },
+           "teams":  "Ren Vs Tou",
+           "link": "https://moon.meta-scores.com/5962633739/5962633739@720p.m3u8"
+        } , 
         {
            "res": "FHD",
            "sound": "China",
-           "teams":  "Sam Vs Lec",
-           "link": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1668293721-0-0-d9a7d839e0e3be8fc323e999fd90529f"
-        },
+           "teams":  "WOL VS ARS",
+           "link": "https://moon.meta-scores.com/194f7791a8/194f7791a8@720p.m3u8"
+        } , 
         {
            "res": "FHD",
            "sound": "China",
-           "teams":  "New Vs Che",
-           "link": "https://moon.meta-scores.com/051b1d1e64/051b1d1e64@720p.m3u8"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "New Vs Che",
-           "link": "https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1668294141-0-0-8770541cd492f3faee2012c509949f5f"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Sch Vs Bay",
-           "link": "https://moon.meta-scores.com/3a3e45794e/3a3e45794e@720p.m3u8"
-        },
-        {
+           "teams":  "Bol Vs Sas",
+           "link": "https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1668303440-0-0-639e1abf14a8722ad26de10b3963b230"
+        
+        } ,
+         {
            "res": "FHD",
            "sound": "China",
            "teams":  "Ren Vs Tou",
