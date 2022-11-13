@@ -1,29 +1,5 @@
 [
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Ata Vs Int",
-           "link": "https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1668360501-0-0-97fe0e5fd56bf3fcf9359d5a7ab10a43"
-        } , 
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Vie",
-           "link": "https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1668359730-0-0-26f98946065f1f5634ee3b4f6f389527"
-        
-        } ,
-         {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "PSG Vs Aux",
-           "link": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668361641-0-0-889b954f2ba074cbe66f4b05ae40aba3"
-        } , 
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "PSG Vs Aux",
-           "link": "https://pullalilive.livnvess.com/live/stream-118582.m3u8?auth_key=1668361590-0-0-c7b5a3061d32f03bf537b777c52556ae"
-        } , 
+  
         {
            "res": "FHD",
            "sound": "China",
