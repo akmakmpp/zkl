@@ -1,5 +1,10 @@
-[
-  
+[ 
+  {
+           "res": "HD",
+           "sound": "ENG",
+           "teams":  "Fulham  Vs Man U",
+           "link": "http://128.199.216.200:9000/KMA/thuta/1.m3u8"
+        },
         {
            "res": "FHD",
            "sound": "China",
