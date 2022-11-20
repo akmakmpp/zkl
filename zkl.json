@@ -1,100 +1,100 @@
 [ 
   {
            "res": "HD",
-           "sound": "ENG",
-           "teams":  "Fulham  Vs Man U",
-           "link": "http://128.199.216.200:9000/KMA/thuta/1.m3u8"
+           "sound": "Vie",
+           "teams":  "Qatar Vs Ecuador",
+           "link": ""
         },
         {
            "res": "FHD",
            "sound": "China",
-           "teams":  "Fulham  Vs Man U",
-           "link": "https://yypull.gdsth.com/live/stream-558696_ld.m3u8?auth_key=1668377001-0-0-eda8fd20d4e6a434066261f321a78bc3"
+           "teams":  "Qatar Vs Ecuador",
+           "link": ""
         } , 
         {
            "res": "SD",
            "sound": "Vie",
-           "teams":  "Fulham  Vs Man U",
-           "link": "https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1668376710-0-0-971830404ccd6906c60e0cf25a9d0fa2"
+           "teams":  "England Vs Iran",
+           "link": ""
         },
-   {
+      {
            "res": "HD",
-           "sound": "HD",
-           "teams":  "Fulham  Vs Man U",
-           "link": "https://moon.meta-scores.com/9d98a1c493/9d98a1c493@720p.m3u8"
+           "sound": "china",
+           "teams":  "England Vs Iran ",
+           "link": ""
         },
          
        
          {
            "res": "FHD",
-           "sound": "China",
-           "teams":  "Ver Vs Spe",
-           "link": "https://moon.meta-scores.com/58a6c64536/58a6c64536@720p.m3u8"
-        },
-         {
-           "res": "FHD",
            "sound": "Vie",
-           "teams":  "Ver Vs Spe",
-           "link": "https://pullalilive.livnvess.com/live/stream-143449.m3u8?auth_key=1668369030-0-0-d700f215be4ddd4a7e038db32d8b9f36"
-        }, 
-        {
-           "res": "HD",
-           "sound": "China",
-           "teams":  "Mai Vs Fra",
-           "link": "https://yypull.gdsth.com/live/stream-466758.m3u8?auth_key=1668371241-0-0-ffbd6e1ef0ff39efc3f193944502708a"
-        }, 
-        {
-           "res": "HD",
-           "sound": "Vie",
-           "teams":  "Mai Vs Fra",
-           "link": "https://pullalilive.livnvess.com/live/stream-137359.m3u8?auth_key=1668371310-0-0-73e2764a3141804ed89591165d24c6d0"
+           "teams":  "Senegal Vs Netherlands",
+           "link": ""
         },
          {
            "res": "FHD",
            "sound": "China",
-           "teams":  "Fre Vs Ber",
+           "teams":  "Senegal vs Netherlands",
            "link": ""
         }, 
         {
+           "res": "HD",
+           "sound": "Vie",
+           "teams":  "USA Vs Wales",
+           "link": ""
+        }, 
+        {
+           "res": "HD",
+           "sound": "China",
+           "teams":  "USA Vs Wales",
+           "link": ""
+        },
+         {
            "res": "FHD",
            "sound": "Vie",
-           "teams":  "Fre Vs Ber",
+           "teams":  "Argentina Vs Saudi",
            "link": ""
         }, 
         {
            "res": "FHD",
            "sound": "China",
-           "teams":  "Mil Vs Fio",
+           "teams":  "Argentina Vs Saudi",
            "link": ""
         }, 
         {
            "res": "FHD",
            "sound": "Vie",
-           "teams":  "Mil Vs Fio",
+           "teams":  "Denmark Vs Tunisia",
+           "link": ""
+        }, 
+        {
+           "res": "FHD",
+           "sound": "China",
+           "teams":  "Denmark Vs Tunisia",
            "link": ""
         } ,
          {
            "res": "FHD",
-           "sound": "China",
-           "teams":  "Juv Vs Laz",
-           "link": ""
-        } , 
-        {
-           "res": "FHD",
-           "sound": "vie",
-           "teams":  "Juv Vs Laz",
+           "sound": "Vie",
+           "teams":  "Mexico Vs Poland",
            "link": ""
         } , 
         {
            "res": "FHD",
            "sound": "China",
-           "teams":  "Mon Vs Mar",
+           "teams":  "Mexico Vs Poland",
            "link": ""
         } , 
         {
            "res": "FHD",
            "sound": "Vie",
-           "teams":  "Mon Vs Mar",
+           "teams":  "France Vs Australia",
+           "link": ""
+        } , 
+        {
+           "res": "FHD",
+           "sound": "China",
+           "teams":  "France Vs Australia",
            "link": ""
         } 
   ]     
