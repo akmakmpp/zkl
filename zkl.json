@@ -2,30 +2,28 @@
   {
            "res": "FHD",
            "sound": "Vie",
-           "teams":  "Qatar Vs Ecuador",
-           "link": "https://sun.meta-scores.com/cf86acb71a_dp2/cf86acb71a_dp2@720p.m3u8"
+           "teams":   "England Vs Iran ",
+           "link": ""
         },
         {
            "res": "FHD",
            "sound": "China",
-           "teams":  "Qatar Vs Ecuador",
-           "link": "https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1668976881-0-0-485c029c91b2f10be455e5191e1b1974"
-        } , 
+           "teams":  "England Vs Iran ",,
+           "link": ""
+        } ,
         {
-           "res": "SD",
-           "sound": "Vie",
-           "teams": "Qatar Vs Ecuador",
-           "link": "https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1668977190-0-0-08b605f3ff84f7286882317801100f90"
-        },
-      {
-           "res": "HD",
+           "res": "FHD",
            "sound": "china",
            "teams":  "England Vs Iran ",
            "link": ""
         },
-         
-       
-         {
+        {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Senegal Vs Netherlands",
+           "link": ""
+        }, 
+        {
            "res": "FHD",
            "sound": "Vie",
            "teams":  "Senegal Vs Netherlands",
@@ -45,6 +43,12 @@
         }, 
         {
            "res": "HD",
+           "sound": "Vie",
+           "teams":  "USA Vs Wales",
+           "link": ""
+        },
+        {
+           "res": "HD",
            "sound": "China",
            "teams":  "USA Vs Wales",
            "link": ""
@@ -60,7 +64,19 @@
            "sound": "China",
            "teams":  "Argentina Vs Saudi",
            "link": ""
+        },
+        {
+           "res": "FHD",
+           "sound": "China",
+           "teams":  "Argentina Vs Saudi",
+           "link": ""
         }, 
+        {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Denmark Vs Tunisia",
+           "link": ""
+        },
         {
            "res": "FHD",
            "sound": "Vie",
@@ -81,10 +97,22 @@
         } , 
         {
            "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Mexico Vs Poland",
+           "link": ""
+        } , 
+        {
+           "res": "FHD",
            "sound": "China",
            "teams":  "Mexico Vs Poland",
            "link": ""
         } , 
+        {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "France Vs Australia",
+           "link": ""
+        } ,  
         {
            "res": "FHD",
            "sound": "Vie",
