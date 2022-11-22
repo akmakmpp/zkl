@@ -1,29 +1,12 @@
 [ 
 
        
-        {
-           "res": "HD",
-           "sound": "Vie",
-           "teams":  "USA Vs Wales",
-           "link": "https://moon.meta-scores.com/c8dfaa4d67/c8dfaa4d67@720p.m3u8"
-        }, 
-        {
-           "res": "HD",
-           "sound": "Vie",
-           "teams":  "USA Vs Wales",
-           "link": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669076371-0-0-2284fecd6c1f0d3cedaf0341b38d6507"
-        },
-        {
-           "res": "HD",
-           "sound": "China",
-           "teams":  "USA Vs Wales",
-           "link": "https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1669076782-0-0-9bab822f706bf181be5f5749057859d8"
-        },
+      
          {
            "res": "FHD",
            "sound": "Vie",
            "teams":  "Argentina Vs Saudi",
-           "link": ""
+           "link": "https://moon.meta-scores.com/f2da1a409a/f2da1a409a@720p.m3u8"
         }, 
         {
            "res": "FHD",
