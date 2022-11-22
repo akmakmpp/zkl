@@ -2,24 +2,6 @@
 
        
       
-         {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Argentina Vs Saudi",
-           "link": "https://moon.meta-scores.com/f2da1a409a/f2da1a409a@720p.m3u8"
-        }, 
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Argentina Vs Saudi",
-           "link": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1669131082-0-0-4ca4722ced32d2a3a4ff64f81e5c51de"
-        },
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Argentina Vs Saudi",
-           "link": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669131331-0-0-8b47c99ea51b8e116459e5be1e8c557c"
-        }, 
         {
            "res": "FHD",
            "sound": "Vie",
@@ -30,7 +12,7 @@
            "res": "FHD",
            "sound": "Vie",
            "teams":  "Denmark Vs Tunisia",
-           "link": ""
+           "link": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669140991-0-0-3fe12548230d3ba1d85756e1a03a5361"
         }, 
         {
            "res": "FHD",
