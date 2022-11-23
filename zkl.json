@@ -1,23 +1,6 @@
 [ 
       
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Spain Vs Costa Rica",
-           "link": "https://yypull.gdsth.com/live/stream-259579.m3u8?auth_key=1669239982-0-0-0f449814307e46fb284e3e1d5e88f368"
-        } , 
-        {
-           "res": "FHD",
-           "sound": "China",
-           "teams":  "Spain Vs Costa Rica",
-           "link": "https://nvzoftzsvflivcf.vcdn.com.vn/vtv2/vtv2@mid.m3u8"
-         },
-         {
-           "res": "HD",
-           "sound": "Vie",
-           "teams":  "Spain Vs Costa Rica",
-           "link": "https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1669238911-0-0-11ff20ccbc6e498d6cd8e06d5f68691a"
-        },  
+     
         {
            "res": "FHD",
            "sound": "Vie",
@@ -34,7 +17,7 @@
            "res": "FHD",
            "sound": "Vie",
            "teams": "Belgium Vs Canada",
-           "link": ""
+           "link": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001669228576-0-0-24803b9b1f1e7f033c21a854030ebe76"
         } 
   ]     
     
