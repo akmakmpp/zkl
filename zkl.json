@@ -1,29 +1,11 @@
 [
      
-       
-         {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Portugal Vs Ghana",
-           "link": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669325722-0-0-6a789b6af96c693ec2d3c6d16f7a303b"
-         } , 
-         {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":   "Portugal Vs Ghana",
-           "link": "https://webdi.openhd.lol/ddy6/premium113/tracks-v1a1/mono.m3u8"
-         },
-         {
-           "res": "HD",
-           "sound": "China",
-           "teams":   "Portugal Vs Ghana",
-           "link": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669316851-0-0-3ca1ab101c95134a1252f02df60dfd98"
-        }  ,
+  
         {
            "res": "FHD",
            "sound": "Vie",
            "teams":  "Brazil Vs Serbia",
-           "link": "https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@sk3-0065/chunklist.m3u8"
+           "link": ""
         } , 
         {
            "res": "FHD",
@@ -36,7 +18,79 @@
            "sound": "China",
            "teams": "Brazil Vs Serbia",
            "link": ""
-        } 
+         },
+         {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Wales Vs Iran",
+           "link": ""
+         } , 
+         {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":   "Wales Vs Iran",
+           "link": ""
+         },
+         {
+           "res": "HD",
+           "sound": "China",
+           "teams":   "Wales Vs Iran",
+           "link": ""
+         },  
+         {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Qatar Vs Senegal",
+           "link": ""
+         } , 
+         {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Qatar Vs Senegal",
+           "link": ""
+         },
+         {
+           "res": "HD",
+           "sound": "China",
+           "teams":   "Qatar Vs Senegal",
+           "link": ""
+         },  
+         {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Netherlands Vs Ecuador",
+           "link": ""
+         } , 
+         {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Netherlands Vs Ecuador",
+           "link": ""
+         },
+         {
+           "res": "HD",
+           "sound": "China",
+           "teams":   "Netherlands Vs Ecuador",
+           "link": ""
+         }, 
+         {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "England Vs USA",
+           "link": ""
+         } , 
+         {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":    "England Vs USA",
+           "link": ""
+         },
+         {
+           "res": "HD",
+           "sound": "China",
+           "teams":   "England Vs USA",
+           "link": ""
+        }  
   ]     
     
    
