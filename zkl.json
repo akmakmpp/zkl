@@ -1,23 +1,6 @@
 [
      
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Uruguay Vs South Korea",
-           "link":  "https://yypull.gdsth.com/live/stream-259579.m3u8?auth_key=1669315582-0-0-d099fb633e2a69d9d862fe9df964ab3c"
-        } , 
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":   "Uruguay Vs South Korea",
-           "link":  "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669248931-0-0-7121e2b13f05458765bf17ecf0bc9799"
-         },
-         {
-           "res": "HD",
-           "sound": "China",
-           "teams":  "Uruguay Vs South Korea",
-           "link": "https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x1y3-9818/chunklist.m3u8"
-         },
+       
          {
            "res": "FHD",
            "sound": "Vie",
@@ -34,7 +17,7 @@
            "res": "HD",
            "sound": "China",
            "teams":   "Portugal Vs Ghana",
-           "link": ""
+           "link": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669316851-0-0-3ca1ab101c95134a1252f02df60dfd98"
         }  ,
         {
            "res": "FHD",
