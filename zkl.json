@@ -1,24 +1,5 @@
-[ 
-      
+[
      
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Switzerland Vs Cameroon",
-           "link": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669304842-0-0-2dcf6503a83d8fc9fd460cb2e4841f2c"
-        } , 
-        {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Switzerland Vs Cameroon",
-           "link": "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669248931-0-0-7121e2b13f05458765bf17ecf0bc9799"
-         },
-         {
-           "res": "HD",
-           "sound": "China",
-           "teams":  "Switzerland Vs Cameroon",
-           "link": "https://nvzoftzsvfliv.vcdn.com.vn/vtv5/hdntl=exp=1669371799~acl=%2f*~data=hdntl~hmac=84ad27c5922418fc5b1f82800dac77df538d9138cfcbff"
-        }  ,
         {
            "res": "FHD",
            "sound": "Vie",
