@@ -1,28 +1,11 @@
 [
  
-         {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Qatar Vs Senegal",
-           "link": "https://yypull.gdsth.com/live/stream-556802.m3u8?auth_key=1669401622-0-0-49b4b37233dd33b5b327e80de1c13950"
-         } , 
-         {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Qatar Vs Senegal",
-           "link": "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669248931-0-0-7121e2b13f05458765bf17ecf0bc97998"
-         },
-         {
-           "res": "HD",
-           "sound": "China",
-           "teams":   "Qatar Vs Senegal",
-           "link": "https://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8"
-         },  
+       
          {
            "res": "FHD",
            "sound": "Vie",
            "teams":  "Netherlands Vs Ecuador",
-           "link": ""
+           "link": "https://yypull.gdsth.com/live/stream-535588.m3u8?auth_key=1669412062-0-0-c92ef2364cad1e4ad695488b84eef2ad"
          } , 
          {
            "res": "FHD",
