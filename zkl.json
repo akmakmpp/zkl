@@ -4,7 +4,7 @@
        
          {
            "res": "FHD",
-           "sound": "Vie",
+           "sound": "China",
            "teams":  "France Vs Denmark",
            "link": "https://yypull.gdsth.com/live/stream-556802.m3u8?auth_key=1669498822-0-0-4ff06a4580aa0f812a988e0e8d608f36"
          } , 
@@ -16,15 +16,15 @@
          },
          {
            "res": "HD",
-           "sound": "China",
+           "sound": "Vie",
            "teams":   "France Vs Denmark",
            "link": "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669248931-0-0-7121e2b13f05458765bf17ecf0bc9799"
         },  
         {
            "res": "FHD",
-           "sound": "Vie",
-           "teams":  "Argentina Vs Mexico",
-           "link": "https://canyou.letmestreamyou.net/live/itvuk_720p/index.m3u8"
+           "sound": "Eng",
+           "teams":  "France Vs Denmark",
+           "link": "https://canyou.letmestreamyou.net/live/itvuk/index.m3u8"
          } , 
          {
            "res": "FHD",
