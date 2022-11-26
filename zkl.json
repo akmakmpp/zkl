@@ -5,43 +5,43 @@
          {
            "res": "FHD",
            "sound": "China",
-           "teams":  "France Vs Denmark",
+           "teams":  "Argentina Vs Mexico",
            "link": "https://yypull.gdsth.com/live/stream-556802.m3u8?auth_key=1669498822-0-0-4ff06a4580aa0f812a988e0e8d608f36"
          } , 
          {
            "res": "FHD",
            "sound": "Vie",
-           "teams":    "France Vs Denmark",
+           "teams":    "Argentina Vs Mexico",
            "link": "https://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8"
          },
          {
            "res": "HD",
            "sound": "Vie",
-           "teams":   "France Vs Denmark",
+           "teams":   "Argentina Vs Mexico",
            "link": "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669248931-0-0-7121e2b13f05458765bf17ecf0bc9799"
         },  
         {
            "res": "FHD",
            "sound": "English",
-           "teams":  "France Vs Denmark",
+           "teams":  "Argentina Vs Mexico",
            "link": "https://canyou.letmestreamyou.net/live/itvuk/index.m3u8"
          } , 
          {
            "res": "FHD",
            "sound": "Arabic",
-           "teams":     "France Vs Denmark",
+           "teams":     "Argentina Vs Mexico",
            "link": "https://canyou.letmestreamyou.net/live/beinsportsmax1ar_720p/index.m3u8"
          },
          {
            "res": "FHD",
            "sound": "French",
-           "teams":  "France Vs Denmark",
+           "teams":  "Argentina Vs Mexico",
            "link": "https://canyou.letmestreamyou.net/live/beinsport1fr/index.m3u8"
          }, 
          {
            "res": "FHD",
            "sound": "Eng",
-           "teams":  "France Vs Denmark",
+           "teams": "Argentina Vs Mexico",
            "link": "https://canyou.letmestreamyou.net/live/fs1us/index.m3u8"
          }
    ]
