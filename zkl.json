@@ -5,24 +5,6 @@
          {
            "res": "FHD",
            "sound": "Vie",
-           "teams":  "Poland Vs Saudi",
-           "link": "https://yypull.gdsth.com/live/stream-78951464.m3u8?auth_key=1669488442-0-0-6e2b02384342609fe28aa836757a7779"
-         } , 
-         {
-           "res": "FHD",
-           "sound": "Vie",
-           "teams":   "Poland Vs Saudi",
-           "link": "https://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8"
-         },
-         {
-           "res": "HD",
-           "sound": "China",
-           "teams":   "Poland Vs Saudi",
-           "link": "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669248931-0-0-7121e2b13f05458765bf17ecf0bc9799"
-         },  
-         {
-           "res": "FHD",
-           "sound": "Vie",
            "teams":  "France Vs Denmark",
            "link": ""
          } , 
@@ -36,6 +18,24 @@
            "res": "HD",
            "sound": "China",
            "teams":   "France Vs Denmark",
+           "link": ""
+        },  
+        {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":  "Argentina Vs Mexico",
+           "link": ""
+         } , 
+         {
+           "res": "FHD",
+           "sound": "Vie",
+           "teams":    "Argentina Vs Mexico",
+           "link": ""
+         },
+         {
+           "res": "HD",
+           "sound": "China",
+           "teams":  "Argentina Vs Mexico",
            "link": ""
         }  
     
