@@ -4,38 +4,38 @@
        
          {
            "res": "FHD",
-           "sound": "China",
-           "teams": "Brazil Vs Switzerland",
+           "sound": "Chinese",
+           "teams": "Portugal Vs Uruguay",
            "link": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1669681282-0-0-a0dbb90f8d4476fb51f7084b3c71e58b"
          } , 
          {
            "res": "FHD",
-           "sound":  "Vie",
-           "teams":   "Brazil Vs Switzerland",
+           "sound":  "Vietnan",
+           "teams":   "Portugal Vs Uruguay",
            "link":  "https://live-ali4.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8"
          },
          {
            "res": "FHD",
-           "sound": "English",
-           "teams":   "Brazil Vs Switzerland",
+           "sound": "Vietnan",
+           "teams":   "Portugal Vs Uruguay",
            "link":  "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669248931-0-0-7121e2b13f05458765bf17ecf0bc9799"
         },
          {
            "res": "FHD",
            "sound": "English",
-           "teams":   "Brazil Vs Switzerland",
+           "teams":   "Portugal Vs Uruguay",
            "link":  "https://playing.whydontyoustreamwme.com/live/fs1us/index.m3u8"
         },    
         {
            "res": "FHD",
-           "sound": "Arabic",
-           "teams":  "Brazil Vs Switzerland",
+           "sound": "English",
+           "teams":  "Portugal Vs Uruguay",
            "link": "https://playing.smoothlikebutterstream.com/live/beinsportsmax1ar_720p/index.m3u8"
          },
           {
            "res": "FHD",
-           "sound":  "Switzerland",
-           "teams": "Brazil Vs Switzerland",
+           "sound": "",
+           "teams":  "Portugal Vs Uruguay",
            "link":  "https://playing.tunnelcdnsw.net/live/rsila2ch/index.m3u8"
          }
   
