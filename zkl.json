@@ -5,37 +5,31 @@
          {
            "res": "FHD",
            "sound": "China",
-           "teams": "Spain Vs Germany",
+           "teams": "Cameroon Vs Serbia",
            "link": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669596322-0-0-7fe82735d4ad2998c67fa038a7ffebcf"
          } , 
          {
-           "res": "HD",
+           "res": "FHD",
            "sound":  "Vie",
-           "teams":    "Spain Vs Germany",
+           "teams":   "Cameroon Vs Serbia",
            "link":  "https://worldcup2022.vtvdigital.vn/8752fcdc12a56ea3479c00d6b59acb88/1669587541005/vtv6/vtv6@360p.m3u8"
          },
          {
            "res": "FHD",
            "sound": "Eng",
-           "teams":   "Spain Vs Germany",
+           "teams":   "Cameroon Vs Serbia",
            "link":  "https://playing.tunnelcdnsw.net/live/bbconeuk/index.m3u8"
         },  
         {
            "res": "FHD",
            "sound": "Arabic",
-           "teams":  "Spain Vs Germany",
+           "teams":  "Cameroon Vs Serbia",
            "link": "https://playing.whydontyoustreamwme.com/live/beinsportsmax1ar/index.m3u8"
-         } ,
-         {
-           "res": "FHD",
-           "sound":  "Eng",
-           "teams":  "Spain Vs Germany",
-           "link":  "https://playing.goforfreedomwme.net/live/bbconeuk/index.m3u8"
-         }, 
+         },
           {
            "res": "FHD",
            "sound":  "Eng",
-           "teams":  "Spain Vs Germany",
+           "teams":  "Cameroon Vs Serbia",
            "link":  "https://turnthe.gameon.tel/live/bbconeuk/index.m3u8"
          }
   
