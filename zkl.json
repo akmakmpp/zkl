@@ -5,74 +5,62 @@
          {
            "res": "FHD",
            "sound": "Chinese",
-           "teams":  "Netherlands Vs Qatar",
-           "link":  "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669754122-0-0-e3e68cf4f4630a383a7a849f8c7ec9cf"
+           "teams":  "Wales Vs England",
+           "link":  ""
          } , 
          {
            "res": "FHD",
            "sound":  "Vietnan",
-           "teams":   "Netherlands Vs Qatar",
-           "link":  "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669248931-0-0-7121e2b13f05458765bf17ecf0bc9799"
+           "teams":    "Wales Vs England",
+           "link":  ""
          },
          {
            "res": "FHD",
            "sound": "English",
-           "teams":   "Netherlands Vs Qatar",
-           "link":  "https://playing.tunnelcdnsw.net/live/fs1us/index.m3u8"
+           "teams":   "Wales Vs England",
+           "link":  ""
         },
          {
            "res": "FHD",
            "sound": "English",
-           "teams":   "Netherlands Vs Qatar",
-           "link":  "https://playing.tunnelcdnsw.net/live/fs1us_720p/index.m3u8"
-        },    
-        {
-           "res": "FHD",
-           "sound": "French",
-           "teams":  "Netherlands Vs Qatar",
-           "link":  "https://turnthe.gameon.tel/live/beinsport1fr_720p/index.m3u8"
-         },
+           "teams":    "Wales Vs England",
+           "link":  ""
+        },
           {
            "res": "FHD",
            "sound": "Arabic",
-           "teams":  "Netherlands Vs Qatar",
-           "link":  "https://playing.whydontyoustreamwme.com/live/beinsportsmax1ar_720p/index.m3u8"
+           "teams":   "Wales Vs England",
+           "link":  ""
          },
          {
            "res": "FHD",
            "sound": "Chinese",
-           "teams":  "Ecuador Vs Senegal",
-           "link":  "https://yypull.gdsth.com/live/stream-78951464.m3u8?auth_key=1669754302-0-0-79334c73afb900fa0661c45a51416902"
+           "teams":  "Iran Vs USA",
+           "link":  ""
          } , 
          {
            "res": "FHD",
            "sound":  "Vietnan",
-           "teams":   "Ecuador Vs Senegal",
-           "link":  "https://live-ali4.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8"
+           "teams":    "Iran Vs USA",
+           "link":  ""
          },
          {
            "res": "FHD",
            "sound": "English",
-           "teams":   "Ecuador Vs Senegal",
-           "link":  "https://turnthe.gameon.tel/live/fs2us/index.m3u8"
+           "teams":    "Iran Vs USA",
+           "link":  ""
         },
          {
            "res": "FHD",
            "sound": "English",
-           "teams":   "Ecuador Vs Senegal",
-           "link":  "https://turnthe.gameon.tel/live/fs2us/index.m3u8"
-        },    
-        {
-           "res": "FHD",
-           "sound": "French",
-           "teams":  "Ecuador Vs Senegal",
-           "link":  "https://playing.whydontyoustreamwme.com/live/beinsport2fr/index.m3u8"
-         },
+           "teams":   "Iran Vs USA",
+           "link":  ""
+        },
           {
            "res": "FHD",
            "sound": "Arabic",
-           "teams":  "Ecuador Vs Senegal",
-           "link":  "https://playing.whydontyoustreamwme.com/live/beinsportsmax2ar/index.m3u8"
+           "teams":   "Iran Vs USA",
+           "link":  ""
          }
   
   
