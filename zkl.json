@@ -5,63 +5,40 @@
          {
            "res": "FHD",
            "sound": "Chinese",
-           "teams":  "CAN VS MOR",
+           "teams":  "COS VS GER",
            "link":  "https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1669927343-0-0-881102f9d8e3177a99c84922cdef350e"
          } , 
          {
            "res": "FHD",
            "sound":  "Vietnan",
-           "teams":   "CAN VS MOR",
+           "teams":   "COS VS GER",
            "link":    "https://live-ali4.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8"
          },
          {
            "res": "FHD",
            "sound": "English",
-           "teams":   "CAN VS MOR",
+           "teams":   "COS VS GER",
            "link":  "https://playing.smoothlikebutterstream.com/live/fs2us_720p/index.m3u8"
-        },
-         {
-           "res": "FHD",
-           "sound": "English",
-           "teams":  "CAN VS MOR",
-           "link":  "https://turnthe.gameon.tel/live/fs1us/index.m3u8"
-        },
-          {
-           "res": "FHD",
-           "sound": "Arabic",
-           "teams":  "CAN VS MOR",
-           "link":  "https://playing.tunnelcdnsw.net/live/beinsportsmax1ar/index.m3u8"
          },
          {
            "res": "FHD",
            "sound": "Cinese",
-           "teams":  "CRO VS BEL",
+           "teams":  "JAP VS SPA",
            "link":  "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669927943-0-0-82b00cc508811b6d1864e0404fb9679a"
          } , 
          {
            "res": "HD",
            "sound":  "Vietnan",
-           "teams":    "CRO VS BEL",
+           "teams":   "JAP VS SPA",
            "link":  "https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8"
          },
          {
            "res": "FHD",
            "sound": "English",
-           "teams":    "CRO VS BEL",
+           "teams":   "JAP VS SPA",
            "link":  "https://playing.smoothlikebutterstream.com/live/bbconeuk/index.m3u8"
-        },
-         {
-           "res": "FHD",
-           "sound": "English",
-           "teams":  "CRO VS BEL",
-           "link":  "https://playing.whydontyoustreamwme.com/live/bbconeuk/index.m3u8"
-        },
-          {
-           "res": "FHD",
-           "sound": "Arabic",
-           "teams": "CRO VS BEL",
-           "link":  "https://playing.tunnelcdnsw.net/live/beinsportsmax2ar/index.m3u8"
-         }
+        }
+        
   
   
   
