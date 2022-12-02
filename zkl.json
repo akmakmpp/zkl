@@ -22,19 +22,19 @@
          },
          {
            "res": "FHD",
-           "sound": "Cinese",
+           "sound": "English",
            "teams":   "GHA VS URU",
            "link":  ""
          } , 
          {
            "res": "HD",
-           "sound":  "Vietnan",
+           "sound":  "Arabic",
            "teams":    "GHA VS URU",
            "link":  ""
          },
          {
            "res": "FHD",
-           "sound": "English",
+           "sound": "Chinese",
            "teams":   "KOR VS POR",
            "link":  ""
         }, 
@@ -52,31 +52,18 @@
          },
          {
            "res": "FHD",
-           "sound": "Cinese",
+           "sound":  "English",
            "teams":    "KOR VS POR",
            "link":  ""
          } , 
          {
            "res": "HD",
-           "sound":  "Vietnan",
+           "sound":  "Arabic",
            "teams":     "KOR VS POR",
            "link":  ""
-         },
-         {
-           "res": "FHD",
-           "sound": "English",
-           "teams":   "KOR VS POR",
-           "link":  ""
-        }
+         }
         
-  
-  
-  
-        
-  
-  
-  
-   ]
+     ]
     
    
         
