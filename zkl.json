@@ -5,38 +5,38 @@
          {
            "res": "FHD",
            "sound": "Chinese",
-           "teams":  "COS VS GER",
-           "link":  "https://yypull.gdsth.com/live/stream-282956.m3u8?auth_key=1669942883-0-0-554b8aacd6f4b42f541b4a28934e19f4"
+           "teams":  "GHA VS URU",
+           "link":  ""
          } , 
          {
            "res": "FHD",
            "sound":  "Vietnan",
-           "teams":   "COS VS GER",
-           "link":    "https://playing.goforfreedomwme.net/live/itv4uk_720p/index.m3u8"
+           "teams":    "GHA VS URU",
+           "link":    ""
          },
          {
            "res": "FHD",
            "sound": "English",
-           "teams":   "COS VS GER",
-           "link":  "https://playing.smoothlikebutterstream.com/live/fs2us/index.m3u8"
+           "teams":    "GHA VS URU",
+           "link":  ""
          },
          {
            "res": "FHD",
            "sound": "Cinese",
-           "teams":  "JAP VS SPA",
-           "link":  "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1669942823-0-0-252541de74d1fca65ee9d92772a4ba6a"
+           "teams":   "GHA VS URU",
+           "link":  ""
          } , 
          {
            "res": "HD",
            "sound":  "Vietnan",
-           "teams":   "JAP VS SPA",
-           "link":  "https://playing.smoothlikebutterstream.com/live/itvuk/index.m3u8"
+           "teams":    "GHA VS URU",
+           "link":  ""
          },
          {
            "res": "FHD",
            "sound": "English",
            "teams":   "JAP VS SPA",
-           "link":  "https://playing.tunnelcdnsw.net/live/fs1us/index.m3u8"
+           "link":  ""
         }
         
   
