@@ -35,9 +35,43 @@
          {
            "res": "FHD",
            "sound": "English",
-           "teams":   "JAP VS SPA",
+           "teams":   "KOR VS POR",
+           "link":  ""
+        }, 
+         {
+           "res": "FHD",
+           "sound":  "Vietnan",
+           "teams":     "KOR VS POR",
+           "link":    ""
+         },
+         {
+           "res": "FHD",
+           "sound": "English",
+           "teams":     "KOR VS POR",
+           "link":  ""
+         },
+         {
+           "res": "FHD",
+           "sound": "Cinese",
+           "teams":    "KOR VS POR",
+           "link":  ""
+         } , 
+         {
+           "res": "HD",
+           "sound":  "Vietnan",
+           "teams":     "KOR VS POR",
+           "link":  ""
+         },
+         {
+           "res": "FHD",
+           "sound": "English",
+           "teams":   "KOR VS POR",
            "link":  ""
         }
+        
+  
+  
+  
         
   
   
