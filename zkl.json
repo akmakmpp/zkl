@@ -5,63 +5,75 @@
          {
            "res": "FHD",
            "sound": "Chinese",
-           "teams":  "CAM VS BRA",
-           "link":  "https://playing.tunnelcdnsw.net/live/cctv5cn/index.m3u8"
+           "teams":  "Netherlands Vs USA",
+           "link":  ""
          } , 
          {
            "res": "FHD",
            "sound":  "Vietnam",
-           "teams":    "CAM VS BRA",
-           "link":    "https://live-ali2.tv360.vn/manifest/VTV3/playlist_720p.m3u8"
+           "teams":    "Netherlands Vs USA",
+           "link":    ""
          },
          {
            "res": "FHD",
            "sound": "English",
-           "teams":    "CAM VS BRA",
-           "link":  "https://turnthe.gameon.tel/live/fs1us/index.m3u8"
+           "teams":    "Netherlands Vs USA",
+           "link":  ""
          },
          {
            "res": "FHD",
            "sound": "English",
-           "teams": "CAM VS BRA",
-           "link":  "https://playing.tunnelcdnsw.net/live/fs1us_720p/index.m3u8"
+           "teams": "Netherlands Vs USA",
+           "link":  ""
          } , 
          {
            "res": "HD",
-           "sound":  "Arabic",
-           "teams":   "CAM VS BRA",
-           "link":  "https://playing.tunnelcdnsw.net/live/beinsportsmax1ar/index.m3u8"
+           "sound":  "France",
+           "teams":   "Netherlands Vs USA",
+           "link":  ""
          },
          {
            "res": "FHD",
-           "sound": "Chinese",
-           "teams":   "SER VS SWI",
-           "link":  "https://playing.tunnelcdnsw.net/live/matchtvru/index.m3u8"
-        }, 
+           "sound": "Arabic",
+           "teams":  "Netherlands Vs USA",
+           "link":  ""
+        },  {
+           "res": "FHD",
+           "sound":  "Chinese",
+           "teams":     "Argentina Vs Australia",
+           "link":    ""
+         },
          {
            "res": "FHD",
            "sound":  "Vietnam",
-           "teams":     "SER VS SWI",
-           "link":    "https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8"
+           "teams":     "Argentina Vs Australia",
+           "link":    ""
          },
          {
            "res": "FHD",
            "sound": "English",
-           "teams":    "SER VS SWI",
-           "link":  "https://playing.goforfreedomwme.net/live/itv4uk/index.m3u8"
+           "teams":   "Argentina Vs Australia",
+           "link":  ""
          },
          {
            "res": "FHD",
            "sound":  "English",
-           "teams":   "SER VS SWI",
-           "link":  "https://playing.whydontyoustreamwme.com/live/fs2us_720p/index.m3u8"
+           "teams":  "Argentina Vs Australia",
+           "link":  ""
          } , 
          {
            "res": "HD",
-           "sound":  "Arabic",
-           "teams":    "SER VS SWI",
-           "link":  "https://turnthe.gameon.tel/live/beinsportsmax2ar_720p/index.m3u8"
+           "sound": "France",
+           "teams":   "Argentina Vs Australia",
+           "link":  ""
+         }, 
+         {
+           "res": "HD",
+           "sound": "Arabic",
+           "teams":   "Argentina Vs Australia",
+           "link":  ""
          }
+        
         
      ]
     
