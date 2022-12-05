@@ -5,48 +5,48 @@
          {
            "res": "FHD",
            "sound": "BBCWorldCup",
-           "teams":  "Japan Vs Croatia",
+           "teams":  "BRA VS KOR",
            "link":  "https://playing.whydontyoustreamwme.com/live/bbconeuk/index.m3u8"
          } , 
          {
            "res": "FHD",
            "sound": "VTV2",
-           "teams":  "Japan Vs Croatia",
+           "teams":  "BRA VS KOR",
            "link":    "https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8"
          },
          {
            "res": "FHD",
            "sound": "FOX",
-           "teams":  "Japan Vs Croatia",
+           "teams":  "BRA VS KOR",
            "link":  "https://playing.goforfreedomwme.net/live/fs1us/index.m3u8"
          },
          {
            "res": "FHD",
            "sound": "FOX",
-           "teams": "Japan Vs Croatia",
+           "teams": "BRA VS KOR",
            "link":  "https://playing.smoothlikebutterstream.com/live/fs1us_720p/index.m3u8"
          } , 
          {
            "res": "HD",
            "sound":   "bein SPORTS 1",
-           "teams": "Japan Vs Croatia",
+           "teams": "BRA VS KOR",
            "link":  "https://playing.tunnelcdnsw.net/live/beinsport1fr/index.m3u8"
          },
          {
            "res": "FHD",
            "sound": "bein SPORTS 1",
-           "teams": "Japan Vs Croatia",
+           "teams": "BRA VS KOR",
            "link":  "https://playing.whydontyoustreamwme.com/live/beinsportsmax1ar/index.m3u8"
         },  {
            "res": "FHD",
            "sound":  "TVP1 HD",
-           "teams":   "Japan Vs Croatia",
+           "teams":  "BRA VS KOR",
            "link":    "https://turnthe.gameon.tel/live/tvp1pl/index.m3u8"
          },
          {
            "res": "FHD",
            "sound":  "Rai1 HD",
-           "teams":    "Japan Vs Croatia",
+           "teams":    "BRA VS KOR",
            "link":    "https://turnthe.gameon.tel/live/rai1it/index.m3u8"
          }
         
