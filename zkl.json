@@ -5,49 +5,49 @@
          {
            "res": "FHD",
            "sound": "itv 1",
-           "teams":  "MOR VS SPA",
-           "link":  "https://playing.goforfreedomwme.net/live/itvuk/index.m3u8"
+           "teams": " POR VS SEI",
+           "link":   ""
          } , 
          {
            "res": "FHD",
            "sound": "VTV2",
-           "teams":  "MOR VS SPA",
-           "link":  "https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8"
+           "teams":  " POR VS SEI",
+           "link":  ""
          },
          {
            "res": "FHD",
            "sound": "FOX",
-           "teams": "MOR VS SPA",
-           "link":  "https://playing.tunnelcdnsw.net/live/fs1us/index.m3u8"
+           "teams": " POR VS SEI",
+           "link":   ""
          },
          {
            "res": "FHD",
            "sound": "FOX",
-           "teams": "MOR VS SPA",
-           "link":  "https://playing.tunnelcdnsw.net/live/fs1us_720p/index.m3u8"
+           "teams": " POR VS SEI",
+           "link":   ""
          } , 
          {
            "res": "HD",
            "sound":   "bein SPORTS 1",
-           "teams":  "MOR VS SPA",
-           "link":  "https://turnthe.gameon.tel/live/beinsport1fr/index.m3u8"
+           "teams":  " POR VS SEI",
+           "link":   ""
          },
          {
            "res": "FHD",
            "sound": "bein SPORTS 1",
-           "teams": "MOR VS SPA",
-           "link":  "https://turnthe.gameon.tel/live/beinsportsmax1ar/index.m3u8"
+           "teams": " POR VS SEI",
+           "link":   ""
         },  {
            "res": "FHD",
            "sound":  "Chinese",
-           "teams": "MOR VS SPA",
-           "link":    "https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1670358383-0-0-767a95d4e36bb010810bfc86e7afc614"
+           "teams": " POR VS SEI",,
+           "link":    ""
          },
          {
            "res": "FHD",
            "sound":  "2DFHD",
-           "teams":   "MOR VS SPA",
-           "link":    "https://turnthe.gameon.tel/live/telemundo/index.m3u8"
+           "teams":   " POR VS SEI",
+           "link":    ""
          }
         
         
