@@ -5,48 +5,48 @@
          {
            "res": "FHD",
            "sound": "BBCWorldCup",
-           "teams":  "BRA VS KOR",
+           "teams":  "MOR VS SPA",
            "link":  "https://playing.smoothlikebutterstream.com/live/itvuk_720p/index.m3u8"
          } , 
          {
            "res": "FHD",
            "sound": "VTV3",
-           "teams":  "BRA VS KOR",
-           "link":    "https://live-ali2.tv360.vn/manifest/VTV3/playlist_720p.m3u8"
+           "teams":  "MOR VS SPA",
+           "link":  "https://live-ali2.tv360.vn/manifest/VTV3/playlist_720p.m3u8"
          },
          {
            "res": "FHD",
            "sound": "FOX",
-           "teams":  "BRA VS KOR",
+           "teams": "MOR VS SPA",
            "link":  "https://playing.goforfreedomwme.net/live/fs1us_720p/index.m3u8"
          },
          {
            "res": "FHD",
            "sound": "FOX",
-           "teams": "BRA VS KOR",
+           "teams": "MOR VS SPA",
            "link":  "https://playing.tunnelcdnsw.net/live/fs1us/index.m3u8"
          } , 
          {
            "res": "HD",
            "sound":   "bein SPORTS 1",
-           "teams": "BRA VS KOR",
+           "teams":  "MOR VS SPA",
            "link":  "https://playing.goforfreedomwme.net/live/beinsport1fr_720p/index.m3u8"
          },
          {
            "res": "FHD",
            "sound": "bein SPORTS 2",
-           "teams": "BRA VS KOR",
+           "teams": "MOR VS SPA",
            "link":  "https://playing.tunnelcdnsw.net/live/beinsportsmax2ar/index.m3u8"
         },  {
            "res": "FHD",
            "sound":  "Chinese",
-           "teams":  "BRA VS KOR",
+           "teams": "MOR VS SPA",
            "link":    "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1670287643-0-0-504edae093010e2a30673a2d981b9341"
          },
          {
            "res": "FHD",
            "sound":  "2DFHD",
-           "teams":    "BRA VS KOR",
+           "teams":   "MOR VS SPA",
            "link":    "https://playing.whydontyoustreamwme.com/live/zdfhdde/index.m3u8"
          }
         
