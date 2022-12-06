@@ -4,50 +4,50 @@
        
          {
            "res": "FHD",
-           "sound": "BBCWorldCup",
+           "sound": "itv 1",
            "teams":  "MOR VS SPA",
-           "link":  "https://yypull.gdsth.com/live/stream-175604.m3u8?auth_key=1670336363-0-0-1fc50f4e8acd82e2af09bc05f5f4d4ea"
+           "link":  "https://playing.whydontyoustreamwme.com/live/itvuk/index.m3u8"
          } , 
          {
            "res": "FHD",
            "sound": "VTV3",
            "teams":  "MOR VS SPA",
-           "link":  "https://yypull.gdsth.com/live/stream-151658.m3u8?auth_key=1670336423-0-0-1ad5f9d79cf7eccedc3ac951bb112e98"
+           "link":  ""
          },
          {
            "res": "FHD",
            "sound": "FOX",
            "teams": "MOR VS SPA",
-           "link":  "https://yypull.gdsth.com/live/stream-196569.m3u8?auth_key=1670336423-0-0-732a6b0da134c5702ecf05635ff6c245"
+           "link":  ""
          },
          {
            "res": "FHD",
            "sound": "FOX",
            "teams": "MOR VS SPA",
-           "link":  "https://yypull.gdsth.com/live/stream-171249.m3u8?auth_key=1670336483-0-0-50812281ce78973111e86589edb42cf5"
+           "link":  ""
          } , 
          {
            "res": "HD",
            "sound":   "bein SPORTS 1",
            "teams":  "MOR VS SPA",
-           "link":  "https://yypull.gdsth.com/live/stream-215178.m3u8?auth_key=1670336543-0-0-dbbcad3c68f6b3204853b35b991bbd318"
+           "link":  ""
          },
          {
            "res": "FHD",
            "sound": "bein SPORTS 2",
            "teams": "MOR VS SPA",
-           "link":  "https://yypull.gdsth.com/live/stream-184581.m3u8?auth_key=1670336603-0-0-bfc06c8aeba4dcdb07012b6635c2db56"
+           "link":  ""
         },  {
            "res": "FHD",
            "sound":  "Chinese",
            "teams": "MOR VS SPA",
-           "link":    "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1670287643-0-0-504edae093010e2a30673a2d981b9341"
+           "link":    ""
          },
          {
            "res": "FHD",
            "sound":  "2DFHD",
            "teams":   "MOR VS SPA",
-           "link":    "https://yypull.gdsth.com/live/stream-124019.m3u8?auth_key=1670336663-0-0-6a48de6654476ce174d3a317bf2abb15"
+           "link":    ""
          }
         
         
