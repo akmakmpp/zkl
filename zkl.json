@@ -5,48 +5,48 @@
          {
            "res":     "FHD",
            "sound":   "Chinese",
-           "teams":   "CRO VS BRA",
+           "teams":   "NET VS ARG",
            "link":    "https://yytcpull.gdsth.com/live/stream-306760.m3u8?txSecret=c459367a8cb3ee99de0a7879ebd63c59&txTime=6394955c"
          } , 
          {
            "res":     "FHD",
            "sound":   "VTV2",
-           "teams":   "CRO VS BRA",
+           "teams":    "NET VS ARG",
            "link":    "https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8"
          },
          {
            "res":     "FHD",
            "sound":   "FOX",
-           "teams":   "CRO VS BRA",
+           "teams":    "NET VS ARG",
            "link":    "https://playing.whydontyoustreamwme.com/live/fs1us_720p/index.m3u8"
          },
          {
            "res":     "FHD",
            "sound":   "FOX",
-           "teams":   "CRO VS BRA",
+           "teams":    "NET VS ARG",
            "link":    "https://playing.smoothlikebutterstream.com/live/bbconeuk/index.m3u8"
          } , 
          {
            "res":     "HD",
            "sound":   "bein SPORTS 1",
-           "teams":   "CRO VS BRA",
+           "teams":    "NET VS ARG",
            "link":    "https://playing.whydontyoustreamwme.com/live/beinsport1fr_720p/index.m3u8"
          },
          {
            "res":     "FHD",
            "sound":   "bein SPORTS 2",
-           "teams":   "CRO VS BRA",
+           "teams":    "NET VS ARG",
            "link":    "https://turnthe.gameon.tel/live/beinsportsmax1ar/index.m3u8"
         },  {
            "res":     "FHD",
            "sound":   "Rus",
-           "teams":   "CRO VS BRA",
+           "teams":    "NET VS ARG",
            "link":    "https://playing.smoothlikebutterstream.com/live/matchtvru/index.m3u8"
          },
          {
            "res":     "FHD",
            "sound":   "2DFHD",
-           "teams":   "CRO VS BRA",
+           "teams":    "NET VS ARG",
            "link":    "https://playing.goforfreedomwme.net/live/telemundo/index.m3u8"
          }
         
