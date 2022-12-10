@@ -5,49 +5,49 @@
          {
            "res":     "FHD",
            "sound":   "Chinese",
-           "teams":   "MOR VS POR",
+           "teams":   "ENG VS FRA",
            "link":    "https://yytcpull.gdsth.com/live/stream-308116.m3u8?txSecret=eea784bbf891e68c87c270688a1b6318&txTime=6395e6dd"
          } , 
          {
            "res":     "FHD",
            "sound":   "VTV2",
-           "teams":    "MOR VS POR",
+           "teams":   "ENG VS FRA",
            "link":    "https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8"
          },
          {
            "res":     "FHD",
            "sound":   "FOX",
-           "teams":    "MOR VS POR",
+           "teams":    "ENG VS FRA",
            "link":    "https://turnthe.gameon.tel/live/fs1us_720p/index.m3u8"
          },
          {
            "res":     "FHD",
            "sound":   "FOX",
-           "teams":    "MOR VS POR",
+           "teams":    "ENG VS FRA",
            "link":    "https://playing.whydontyoustreamwme.com/live/fs1us/index.m3u8"
          } , 
          {
            "res":     "HD",
            "sound":   "bein SPORTS 1",
-           "teams":    "MOR VS POR",
+           "teams":    "ENG VS FRA",
            "link":    "https://playing.goforfreedomwme.net/live/beinsport1fr_720p/index.m3u8"
          },
          {
            "res":     "FHD",
            "sound":   "bein SPORTS 2",
-           "teams":    "MOR VS POR",
+           "teams":   "ENG VS FRA",
            "link":    "https://turnthe.gameon.tel/live/beinsportsmax1arab/index.m3u8"
         },
         {
            "res":     "FHD",
            "sound":   "TVP1",
-           "teams":    "MOR VS POR",
+           "teams":   "ENG VS FRA",
            "link":    "https://playing.whydontyoustreamwme.com/live/tvp1pl/index.m3u8"
          },
          {
            "res":     "FHD",
            "sound":   "Rai1",
-           "teams":    "MOR VS POR",
+           "teams":    "ENG VS FRA",
            "link":    "https://playing.goforfreedomwme.net/live/rai1it/index.m3u8"
          }
         
