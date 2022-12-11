@@ -6,49 +6,49 @@
            "res":     "FHD",
            "sound":   "Chinese",
            "teams":   "ENG VS FRA",
-           "link":    "https://yytcpull.gdsth.com/live/stream-318894.m3u8?txSecret=8210f8bf2a90805e2c720623a06ca118&txTime=639624f9"
+           "link":    ""
          } , 
          {
            "res":     "FHD",
            "sound":   "VTV3",
            "teams":   "ENG VS FRA",
-           "link":    "https://live-ali2.tv360.vn/manifest/VTV3/playlist_720p.m3u8"
+           "link":    ""
          },
          {
            "res":     "FHD",
            "sound":   "FOX",
            "teams":    "ENG VS FRA",
-           "link":    "https://turnthe.gameon.tel/live/itv1uk/index.m3u8"
+           "link":    ""
          },
          {
            "res":     "FHD",
            "sound":   "FOX",
            "teams":    "ENG VS FRA",
-           "link":    "https://playing.tunnelcdnsw.net/live/fs1us_720p/index.m3u8"
+           "link":    ""
          } , 
          {
            "res":     "HD",
            "sound":   "bein SPORTS 1",
            "teams":    "ENG VS FRA",
-           "link":    "https://turnthe.gameon.tel/live/beinsport1fr_720p/index.m3u8"
+           "link":    ""
          },
          {
            "res":     "FHD",
            "sound":   "bein SPORTS 2",
            "teams":   "ENG VS FRA",
-           "link":    "https://playing.smoothlikebutterstream.com/live/beinsportsmax2arab_720p/index.m3u8"
+           "link":    ""
         },
         {
            "res":     "FHD",
            "sound":   "Rai1",
            "teams":   "ENG VS FRA",
-           "link":    "https://playing.goforfreedomwme.net/live/rai1it/index.m3u8"
+           "link":    ""
          },
          {
            "res":     "FHD",
            "sound":   "itv1",
            "teams":    "ENG VS FRA",
-           "link":    "https://playing.tunnelcdnsw.net/live/itv1uk_720p/index.m3u8"
+           "link":    ""
          }
         
         
