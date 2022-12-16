@@ -13,19 +13,7 @@
            "sound":   "CHINESE",
            "teams":   "LIV VS AC",
            "link":    "https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=d5f5fc2ef218d9fe17f5b98ce5348c81&txTime=639de316"
-         },
-         {
-           "res":     "FHD",
-           "sound":   "VTV",
-           "teams":    "FRI VS MOR",
-           "link":    "https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@sk3-0086/chunklist.m3u8"
-         },
-         {
-           "res":     "FHD",
-           "sound":   "VEBO",
-           "teams":   "FRI VS MOR",
-           "link":    "https://1123139281.cdn.khmer-hd.com/live/chunks.m3u8"
-         } 
+         }
         
         
      ]
