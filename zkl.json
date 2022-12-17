@@ -5,15 +5,28 @@
          {
            "res":     "FHD",
            "sound":   "VIE",
-           "teams":   "LIV VS AC",
+           "teams":   "CRO VS MOR",
            "link":    "https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1671224976-0-0-d3876a898276480a4d4915cd099280b5"
          } , 
          {
            "res":     "FHD",
            "sound":   "CHINESE",
-           "teams":   "LIV VS AC",
+           "teams":   "CRO VS MOR",
+           "link":    "https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=d5f5fc2ef218d9fe17f5b98ce5348c81&txTime=639de316"
+         },
+         {
+           "res":     "FHD",
+           "sound":   "VIE",
+           "teams":   "CRO VS MOR",
+           "link":    "https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1671224976-0-0-d3876a898276480a4d4915cd099280b5"
+         } , 
+         {
+           "res":     "FHD",
+           "sound":   "CHINESE",
+           "teams":   "CRO VS MOR",
            "link":    "https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=d5f5fc2ef218d9fe17f5b98ce5348c81&txTime=639de316"
          }
+        
         
         
      ]
