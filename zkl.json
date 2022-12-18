@@ -5,25 +5,25 @@
          {
            "res":     "FHD",
            "sound":   "VTV2",
-           "teams":   "ARG VS FRI",
+           "teams":   "ARG VS FRA",
            "link":    "https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8"
          } , 
          {
            "res":     "FHD",
            "sound":   "VTV",
-           "teams":   "ARG VS FRI",
+           "teams":   "ARG VS FRA",
            "link":    "https://worldcup2022.vtvdigital.vn/5ecf8b083b2a98475223bf81f5278845/1671295376975/vtv6/vtv6@240p.m3u8"
          },
          {
            "res":     "FHD",
            "sound":   "CHINESE",
-           "teams":   "ARG VS FRI",
+           "teams":   "ARG VS FRA",
            "link":    "https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=d5148148b6d345e92edade6789e42f27&txTime=639f2123"
          } , 
          {
            "res":     "FHD",
            "sound":   "CHINESE",
-           "teams":   "ARG VS FRI",
+           "teams":   "ARG VS FRA",
            "link":    "https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=f0ebb46930fe2f58107b16d1f2bab058&txTime=639f219b"
          }
         
