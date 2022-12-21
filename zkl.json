@@ -25,6 +25,18 @@
            "sound":   "VEBO",
            "teams":   "CHA VS BRI",
            "link":    "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         },
+         {
+           "res":     "FHD",
+           "sound":   "VEBO",
+           "teams":   "BLB VS FOR",
+           "link":    "https://179314182.global.cdnfastest.com/live/oldSD/chunklist.m3u8"
+         } , 
+         {
+           "res":     "FHD",
+           "sound":   "VEBO",
+           "teams":   "BLB VS FOR",
+           "link":    "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8
          }
         
      ]
