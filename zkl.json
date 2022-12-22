@@ -13,6 +13,18 @@
            "sound":   "VEBO",
            "teams":  "MAN VS LIV",
            "link":    "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         } ,
+         {
+           "res":     "FHD",
+           "sound":   "CHINA",
+           "teams":   "MAN VS LIV",
+           "link":    "https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8"
+         } , 
+         {
+           "res":     "FHD",
+           "sound":   "CHINA",
+           "teams":  "MAN VS LIV",
+           "link":    "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
          } 
         
      ]
