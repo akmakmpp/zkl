@@ -5,31 +5,13 @@
            "res":     "FHD",
            "sound":   "VEBO",
            "teams":   "ARS VS WES",
-           "link":    "https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8
+           "link":    "https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8"
          } ,
-         {
-           "res":     "FHD",
-           "sound":   "CHINA",
-           "teams":   "AST VS LIV",
-           "link":    "https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=96513b8bed2ef060967ed082a5eebf72&txTime=63ab2858"
-         } , 
-         {
-           "res":     "FHD",
-           "sound":   "CHINA",
-           "teams":  "AST VS LIV",
-           "link":    "https://yytcpull.gdsth.com/live/stream-535588.m3u8?txSecret=843dfabe8f317d19caa6002fba61342c&txTime=63ab28d0"
-         },
-         {
-           "res":     "SD",
-           "sound":   "SOCO",
-           "teams":   "AST VS LIV",
-           "link":    "https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=7f50648c0c137b3cf6b9ab1a591bf478&txTime=63aa26e2"
-         }, 
-         {
+        {
            "res":     "FHD",
            "sound":   "CHINA",
            "teams":  "ARS VS WES",
-           "link":    "https://yytcpull.gdsth.com/live/stream-535588.m3u8?txSecret=843dfabe8f317d19caa6002fba61342c&txTime=63ab28d0"
+           "link":    "https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1672105988-0-0-ea66e6bfad5a80d734baeb36c1b42dee"
          },
          {
            "res":     "SD",
