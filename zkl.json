@@ -97,7 +97,31 @@
            "sound":   "CHINA",
            "teams":  "LEI VS NEW",
            "link":    "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1672078088-0-0-a88553e1ff7edd0ed955ed69a524efe1"
-         } 
+         },
+         {
+           "res":     "SD",
+           "sound":   "VEBO",
+           "teams":   "SOU VS BRI",
+           "link":    ""
+         } , 
+         {
+           "res":     "FHD",
+           "sound":   "VEBO",
+           "teams":   "SOU VS BRI",
+           "link":    ""
+         } ,
+         {
+           "res":     "FHD",
+           "sound":   "CHINA",
+           "teams":   "SOU VS BRI",
+           "link":    ""
+         } , 
+         {
+           "res":     "FHD",
+           "sound":   "CHINA",
+           "teams":    "SOU VS BRI",
+           "link":    ""
+         }
         
         
         
