@@ -5,25 +5,25 @@
          {
            "res":     "SD",
            "sound":   "VEBO",
-           "teams":   "CRY VS FUL",
+           "teams":   "AST VS LIV",
            "link":    "https://179314182.global.cdnfastest.com/live/may3SD/chunklist.m3u8"
          } , 
          {
            "res":     "FHD",
            "sound":   "VEBO",
-           "teams":  "CRY VS FUL",
+           "teams":  "AST VS LIV",
            "link":    "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
          } ,
          {
            "res":     "FHD",
            "sound":   "CHINA",
-           "teams":  "CRY VS FUL",
+           "teams": "AST VS LIV",
            "link":    "https://yytcpull.gdsth.com/live/stream-556802.m3u8?txSecret=b1fc445dc53ab0bfc3a989a69115ebc5&txTime=63ab038c"
          } , 
          {
            "res":     "FHD",
            "sound":   "CHINA",
-           "teams":  "CRY VS FUL",
+           "teams":  "AST VS LIV",
            "link":    "https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1672087209-0-0-dbc09d2d38a41b8a2287d9b61f6f9850"
          },
          {
