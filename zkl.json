@@ -3,27 +3,27 @@
        
        
          {
-           "res":     "FHD",
+           "res":     "SD",
            "sound":   "VEBO",
-           "teams":   "MAN VS LIV",
+           "teams":   "BRE VS TOT",
            "link":    "https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8"
          } , 
          {
            "res":     "FHD",
            "sound":   "VEBO",
-           "teams":  "MAN VS LIV",
+           "teams":  "BRE VS TOT",
            "link":    "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
          } ,
          {
            "res":     "FHD",
            "sound":   "CHINA",
-           "teams":   "MAN VS LIV",
+           "teams":   "BRE VS TOT",
            "link":    "https://yytcpull.gdsth.com/live/stream-105676.m3u8?txSecret=299cf92b3ca1d644c69738cc3397c0ca&txTime=63a60542"
          } , 
          {
            "res":     "FHD",
            "sound":   "CHINA",
-           "teams":   "MAN VS LIV",
+           "teams":   "BRE VS TOT",
            "link":    "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1671760326-0-0-4469836e673767778bb7322ca6889e2c"
          } 
         
