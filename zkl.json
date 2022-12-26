@@ -32,73 +32,8 @@
            "teams":   "AST VS LIV",
            "link":    "https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=7f50648c0c137b3cf6b9ab1a591bf478&txTime=63aa26e2"
          } , 
-         {
-           "res":     "FHD",
-           "sound":   "VEBO",
-           "teams":  "EVE VS WOL",
-           "link":    "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-         } ,
-         {
-           "res":     "FHD",
-           "sound":   "CHINA",
-           "teams":   "EVE VS WOL",
-           "link":    "https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1672087268-0-0-6a49dc83e1f04ea7a8767118a65e7e01"
-         } , 
-         {
-           "res":     "FHD",
-           "sound":   "CHINA",
-           "teams":   "EVE VS WOL",
-           "link":    "https://yypull.gdsth.com/live/stream-423428.m3u8?auth_key=1672087328-0-0-8b682bbb301790f3f4393074939fb964"
-         },
-         {
-           "res":     "SD",
-           "sound":   "VEBO",
-           "teams":   "LEI VS NEW",
-           "link":    "https://179314182.global.cdnfastest.com/live/live/chunklist.m3u8"
-         } , 
-         {
-           "res":     "FHD",
-           "sound":   "VEBO",
-           "teams":   "LEI VS NEW",
-           "link":    "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-         } ,
-         {
-           "res":     "FHD",
-           "sound":   "CHINA",
-           "teams":  "LEI VS NEW",
-           "link":    "https://yytcpull.gdsth.com/live/stream-308116.m3u8?txSecret=21f9a1c6fc6f4fde5586880316c2352d&txTime=63ab047c"
-         } , 
-         {
-           "res":     "FHD",
-           "sound":   "CHINA",
-           "teams":  "LEI VS NEW",
-           "link":    "https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1672087448-0-0-ff8f628dc6a5a9b758555fb4cad586a8"
-         },
-         {
-           "res":     "SD",
-           "sound":   "VEBO",
-           "teams":   "SOU VS BRI",
-           "link":    "https://179314182.global.cdnfastest.com/live/oldSD/chunklist.m3u8"
-         } , 
-         {
-           "res":     "FHD",
-           "sound":   "VEBO",
-           "teams":   "SOU VS BRI",
-           "link":    "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-         } ,
-         {
-           "res":     "FHD",
-           "sound":   "CHINA",
-           "teams":   "SOU VS BRI",
-           "link":    "https://yytcpull.gdsth.com/live/stream-553612.m3u8?txSecret=270073317aa575b6ec7ac6c43a6c770a&txTime=63ab0530"
-         } , 
-         {
-           "res":     "FHD",
-           "sound":   "CHINA",
-           "teams":    "SOU VS BRI",
-           "link":    "https://yytcpull.gdsth.com/live/stream-535588.m3u8?txSecret=0ec4f26cca0573408b09a1c3256425fc&txTime=63ab04f4"
-         }
         
+         
         
         
      ]
