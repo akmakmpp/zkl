@@ -29,25 +29,25 @@
          {
            "res":     "SD",
            "sound":   "VEBO",
-           "teams":   "BRE VS TOT",
+           "teams":   "CRY VS FUL",
            "link":    "https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8"
          } , 
          {
            "res":     "FHD",
            "sound":   "VEBO",
-           "teams":  "BRE VS TOT",
+           "teams":  "CRY VS FUL",
            "link":    "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
          } ,
          {
            "res":     "FHD",
            "sound":   "CHINA",
-           "teams":   "BRE VS TOT",
+           "teams":  "CRY VS FUL",
            "link":    "https://yytcpull.gdsth.com/live/stream-558696.m3u8?txSecret=ff1bb45f4d42d614e038ca4f63df17a7&txTime=63aadf38"
          } , 
          {
            "res":     "FHD",
            "sound":   "CHINA",
-           "teams":   "BRE VS TOT",
+           "teams":  "CRY VS FUL",
            "link":    "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1672078088-0-0-a88553e1ff7edd0ed955ed69a524efe1"
          } 
         
