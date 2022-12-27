@@ -10,14 +10,14 @@
          {
            "res":     "FHD",
            "sound":   "CHINA",
-           "teams":   "ARS VS WES",
-           "link":    "https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1672105988-0-0-ea66e6bfad5a80d734baeb36c1b42dee"
+           "teams":    "CHE VS BOU",
+           "link":    "https://yytcpull.gdsth.com/live/stream-482682.m3u8?txSecret=65a4aecd19d69055074ea141718318f0&txTime=63ac7ca8"
          },
          {
            "res":     "SD",
-           "sound":   "SOCO",
-           "teams":   "ARS VS WES",
-           "link":    "https://sports01.livnvess.com/live/stream-105131.m3u8?txSecret=ce88ed970776ddb29c86e078f71f1cbe&txTime=63aa419a"
+           "sound":   "VEBO",
+           "teams":   "CHE VS BOU",
+           "link":    "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
          } 
         ]
     
