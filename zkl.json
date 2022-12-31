@@ -36,7 +36,7 @@
            "res":     "SD",
            "sound":   "VEBO",
            "teams":   "MAN VS EVE",
-           "link":    "https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8"
+           "link":    "https://179314182.global.cdnfastest.com/live/live/chunklist.m3u8"
          },
          {
            "res":     "FHD",
@@ -54,7 +54,7 @@
            "res":     "SD",
            "sound":   "VEBO",
            "teams":    "NEW VS LEE",
-           "link":    "https://179314182.global.cdnfastest.com/live/may3FHD/chunklist.m3u8"
+           "link":    "https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8"
          },  
          {
            "res":     "FHD",
@@ -72,7 +72,7 @@
            "res":     "SD",
            "sound":   "VEBO",
            "teams":   "FUL VS SOU",
-           "link":    "https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8"
+           "link":    "https://179314182.global.cdnfastest.com/live/may2SD/chunklist.m3u8"
          },
          {
            "res":     "FHD",
@@ -90,7 +90,7 @@
            "res":     "SD",
            "sound":   "VEBO",
            "teams":   "BOU VS CRY",
-           "link":    "https://179314182.global.cdnfastest.com/live/may3FHD/chunklist.m3u8"
+           "link":    "https://179314182.global.cdnfastest.com/live/may9/chunklist.m3u8"
          }  
         ]
     
