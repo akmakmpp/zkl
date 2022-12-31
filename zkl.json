@@ -58,12 +58,6 @@
          },  
          {
            "res":     "FHD",
-           "sound":   "SOCO",
-           "teams":   "FUL VS SOU",
-           "link":    "https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=89b234e3b823b2ed0855e19f4ddbea9d&txTime=63b07c97"
-         },
-         {
-           "res":     "FHD",
            "sound":   "CHINA",
            "teams":   "FUL VS SOU",
            "link":    "https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1672519270-0-0-65c8f07d285d05fd3b1c5d084048ac3b"
