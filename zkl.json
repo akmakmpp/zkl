@@ -18,6 +18,24 @@
            "sound":   "VEBO",
            "teams":   "WOL VS MAN",
            "link":    "https://179314182.global.cdnfastest.com/live/may0FHD/chunklist.m3u8"
+         },
+         {
+           "res":     "FHD",
+           "sound":   "SOCO",
+           "teams":   "BAR VS ESP",
+           "link":    "https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=89b234e3b823b2ed0855e19f4ddbea9d&txTime=63b07c97"
+         },
+         {
+           "res":     "FHD",
+           "sound":   "CHINA",
+           "teams":    "BAR VS ESP",
+           "link":    "https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=ac873ad4412ef3d4a54e5ca6f4f6d3de&txTime=63b17a7a"
+         },
+         {
+           "res":     "SD",
+           "sound":   "VEBO",
+           "teams":   "BAR VS ESP",
+           "link":    "https://179314182.global.cdnfastest.com/live/may0FHD/chunklist.m3u8"
          } 
         ]
     
