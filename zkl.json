@@ -85,7 +85,43 @@
            "sound":   "VEBO",
            "teams":   "BOU VS CRY",
            "link":    "https://179314182.global.cdnfastest.com/live/may9/chunklist.m3u8"
-         }  
+         },
+         {
+           "res":     "FHD",
+           "sound":   "SOCO",
+           "teams":  "REA VS OSA",
+           "link":    "https://pullalilive.livnvess.com/live/stream-100684.m3u8?auth_key=1672512835-0-0-19811e4eb9b42cd3423c7d4a634988e1"
+         },
+         {
+           "res":     "FHD",
+           "sound":   "CHINA",
+           "teams":   "REA VS OSA",
+           "link":    "https://yypull.gdsth.com/live/stream-5645612.m3u8?auth_key=1672519330-0-0-e975593d84840357b450b474a7fa7bed"
+         },
+         {
+           "res":     "SD",
+           "sound":   "VEBO",
+           "teams":   "REA VS OSA",
+           "link":    "https://179314182.global.cdnfastest.com/live/may9/chunklist.m3u8"
+         } ,
+         {
+           "res":     "FHD",
+           "sound":   "SOCO",
+           "teams":  "VIL VS VAL",
+           "link":    "https://pullalilive.livnvess.com/live/stream-100684.m3u8?auth_key=1672512835-0-0-19811e4eb9b42cd3423c7d4a634988e1"
+         },
+         {
+           "res":     "FHD",
+           "sound":   "CHINA",
+           "teams":   "VIL VS VAL",
+           "link":    "https://yypull.gdsth.com/live/stream-5645612.m3u8?auth_key=1672519330-0-0-e975593d84840357b450b474a7fa7bed"
+         },
+         {
+           "res":     "SD",
+           "sound":   "VEBO",
+           "teams":    "VIL VS VAL",
+           "link":    "https://179314182.global.cdnfastest.com/live/may9/chunklist.m3u8"
+         }       
         ]
     
    
