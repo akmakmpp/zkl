@@ -19,6 +19,24 @@
            "sound":   "VEBO",
            "teams":    "TOT VS AST",
            "link":    "https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8"
+         },
+         {
+           "res":     "FHD",
+           "sound":   "SOCO",
+           "teams":   "MON VS BRE",
+           "link":    "https://f51b27aafd4a386181ce926f59c41be2.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=ad2efa7f203338d0f52e8f2&period ;"
+         },
+         {
+           "res":     "FHD",
+           "sound":   "CHINA",
+           "teams":   "MON VS BRE",
+           "link":    "https://yypull.gdsth.com/live/stream-5645612.m3u8?auth_key=1672602250-0-0-740680d475aa17250442992ffc130795"
+         },
+         {
+           "res":     "SD",
+           "sound":   "VEBO",
+           "teams":    "MON VS BRE",
+           "link":    "https://179314182.global.cdnfastest.com/live/may2SD/chunklist.m3u8"
          }
         ]
     
