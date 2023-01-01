@@ -5,82 +5,21 @@
          {
            "res":     "FHD",
            "sound":   "SOCO",
-           "teams":   "MAN VS EVE",
-           "link":    "https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=406f5ca3a305c3477fca010b1e24ff17&txTime=63b095ab"
+           "teams":   "TOT VS AST",
+           "link":    "https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=6884d92cf573b5e3df172b80d933b017&txTime=63b1dfab"
          },
          {
            "res":     "FHD",
            "sound":   "CHINA",
-           "teams":   "MAN VS EVE",
-           "link":    "https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=a74087d2f0c6419c54ca00abc8693eb5&txTime=63b19b0e"
+           "teams":    "TOT VS AST",
+           "link":    "https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=4fb09f968948e8f2529ade571e28dc41&txTime=63b2de7e"
          },
          {
            "res":     "SD",
            "sound":   "VEBO",
-           "teams":   "MAN VS EVE",
-           "link":    "https://179314182.global.cdnfastest.com/live/live/chunklist.m3u8"
-         },
-         {
-           "res":     "FHD",
-           "sound":   "SOCO",
-           "teams":   "NEW VS LEE",
-           "link":    "https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=b83d1e7711b927bff6be6b52ff7ae117&txTime=63b0956f"
-         },
-         {
-           "res":     "FHD",
-           "sound":   "CHINA",
-           "teams":    "NEW VS LEE",
-           "link":    "https://yytcpull.gdsth.com/live/stream-105676.m3u8?txSecret=b48f086a8ea001b27d8f4508553d2a5c&txTime=63b19b4a"
-         },
-         {
-           "res":     "SD",
-           "sound":   "VEBO",
-           "teams":    "NEW VS LEE",
+           "teams":    "TOT VS AST",
            "link":    "https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8"
-         },  
-         {
-           "res":     "FHD",
-           "sound":   "CHINA",
-           "teams":   "FUL VS SOU",
-           "link":    "https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1672519270-0-0-65c8f07d285d05fd3b1c5d084048ac3b"
-         },
-         {
-           "res":     "SD",
-           "sound":   "VEBO",
-           "teams":   "FUL VS SOU",
-           "link":    "https://179314182.global.cdnfastest.com/live/may2SD/chunklist.m3u8"
-         },
-         {
-           "res":     "FHD",
-           "sound":   "SOCO",
-           "teams":  "BOU VS CRY",
-           "link":    "https://pullalilive.livnvess.com/live/stream-100684.m3u8?auth_key=1672512835-0-0-19811e4eb9b42cd3423c7d4a634988e1"
-         },
-         {
-           "res":     "FHD",
-           "sound":   "CHINA",
-           "teams":   "BOU VS CRY",
-           "link":    "https://yypull.gdsth.com/live/stream-5645612.m3u8?auth_key=1672519330-0-0-e975593d84840357b450b474a7fa7bed"
-         },
-         {
-           "res":     "SD",
-           "sound":   "VEBO",
-           "teams":   "BOU VS CRY",
-           "link":    "https://179314182.global.cdnfastest.com/live/may9/chunklist.m3u8"
-         },
-         {
-           "res":     "FHD",
-           "sound":   "CHINA",
-           "teams":   "REA VS OSA",
-           "link":    "https://yytcpull.gdsth.com/live/stream-456847.m3u8?txSecret=82136987f62ff0243ca39b31312bdf7a&txTime=63b1a0ea"
-         },
-        
-         {
-           "res":     "FHD",
-           "sound":   "CHINA",
-           "teams":   "VIL VS VAL",
-           "link":    "https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1672520470-0-0-24acfad4847332e8d8aeaada244e4eb5"
-         }  
+         }
         ]
     
    
